@@ -664,16 +664,3 @@ assistant.ask("Project next quarter revenue based on current trends")
 
 ---
 
-## 🌟 Success Stories
-
-> "Reduced time to insight from hours to minutes" - Data Analyst
-
-> "Democratized data access across the organization" - VP of Analytics
-
-> "SQL generation accuracy exceeded 95%" - Data Engineer
-
----
-
-**Built with ❤️ using Databricks GenAI, LangChain, and Vector Search**
-
-*Last Updated: January 2025*
